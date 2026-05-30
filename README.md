@@ -32,21 +32,7 @@ The analysis combines Exploratory Data Analysis (EDA), data visualization, and M
 - Jupyter Notebook
 
 ---
-## Project Screenshots
 
-### Brand Distribution
-![Brand Distribution](<img width="630" height="470" alt="Brand distribution" src="https://github.com/user-attachments/assets/ac855d41-7c99-4173-912f-08b4da8f9364" />)
-
-### Price vs Range
-![Price vs Range](<img width="598" height="455" alt="Price vs range" src="https://github.com/user-attachments/assets/722572ba-5966-4aaf-a928-d40074d4bd3f" />)
-
-### Correlation Heatmap
-![Correlation Heatmap](<img width="1067" height="832" alt="correlation heatmap" src="https://github.com/user-attachments/assets/c21eff5e-8cf2-4e66-9349-96aa752e10c3" />)
-
-### Actual vs Predicted
-![Actual vs Predicted](<img width="877" height="547" alt="Actual vs Predicted" src="https://github.com/user-attachments/assets/939b03d5-f564-49b1-a70f-401db0e10d5b" />)
-
----
 ## Dataset Features
 
 The dataset contains EV-related information such as:
