@@ -46,6 +46,7 @@ The analysis combines Exploratory Data Analysis (EDA), data visualization, and M
 ### Actual vs Predicted
 ![Actual vs Predicted](<img width="877" height="547" alt="Actual vs Predicted" src="https://github.com/user-attachments/assets/939b03d5-f564-49b1-a70f-401db0e10d5b" />)
 
+---
 ## Dataset Features
 
 The dataset contains EV-related information such as:
