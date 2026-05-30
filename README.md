@@ -161,4 +161,4 @@ Pradeep Kumar Bhoi
 Aspiring Data Scientist | Machine Learning Enthusiast
 
 GitHub: https://github.com/p-bhoi
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn:https://www.linkedin.com/in/pradeep-kumar-bhoi-6b9767364/
